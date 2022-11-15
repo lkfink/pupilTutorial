@@ -7,6 +7,8 @@ Fink, L., Simola, J., Tavano, A., Lange, E. B., Wallot, S., & Laeng, B. (2021). 
 ## Contents
 `Fink_pupilCodeTutorial_interactive.mlx` is the main tutorial script. It contains text, MATLAB code, and interactive user interfaces for understanding some fundamentals of time series and signal-to-signal analyses.
 
+`Fink_pupilCodeTutorial_interactive.html` is an html print out of the code and figures in the above .mlx script, for those who want to browse online, or who do not have MATLAB. We are in the process of converting all code in this repository to python and will be providing a full python version in the future.
+
 `Fink_toydata.mat` contains the raw data we will be working with during the workshop.
 
 All other scripts are helper functions, called in the main interactive script:
