@@ -26,6 +26,8 @@ All other scripts are helper functions, called in the main interactive script:
 `DFA_fun.m` is a function to compute a detrended fluctuation analysis.
 [https://www.mathworks.com/matlabcentral/fileexchange/67889-detrended-fluctuation-analysis-dfa](https://www.mathworks.com/matlabcentral/fileexchange/67889-detrended-fluctuation-analysis-dfa)
 
+`RQA` is a folder containing a .csv of the toy data and an R script to conduct RQA and CRQA. This code is in the process of being converted to MATLAB and integrated with the main .mlx script. We apologize for the inconvenience. Expect an update by 18.11.2022
+
 ## Dependencies
 This code was written in MATLAB version 2021b and relies on the following:
 - Signal Processing Toolbox
