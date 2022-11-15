@@ -31,10 +31,15 @@ All other scripts are helper functions, called in the main interactive script:
 `RQA` is a folder containing a .csv of the toy data and an R script to conduct RQA and CRQA. This code is in the process of being converted to MATLAB and integrated with the main .mlx script. We apologize for the inconvenience. Expect an update by 18.11.2022
 
 ## Dependencies
-This code was written in MATLAB version 2021b and relies on the following:
-- Signal Processing Toolbox
-- Statistics Toolbox
-- Symbolic Toolbox
+This code was written in MATLAB verion 9.11.0.1769968 (R2021b) and relies on the following toolboxes:
+- Signal Processing Toolbox: Version 8.7
+- Statistics and Machine Learning Toolbox: Version 12.2
+- Symbolic Math Toolbox: Version 9.0
+
+Development machine details: 
+Operating System: macOS  Version: 11.6.6 Build: 20G624 
+Java Version: Java 1.8.0_202-b08 with Oracle Corporation Java HotSpot(TM) 64-Bit Server VM mixed mode
+
 
 ## Running this code
 Download this Github repository. Open `Fink_pupilCodeTutorial_interactive.mlx`.
