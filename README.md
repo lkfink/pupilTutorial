@@ -59,7 +59,3 @@ Should trouble occur, or bugs be found, please [open an issue](https://github.co
 If using anything from this repository, cite:
 
 Fink, L., Simola, J., Tavano, A., Lange, E. B., Wallot, S., & Laeng, B. (2021, December 2). From pre-processing to advanced dynamic modeling of pupil data. https://doi.org/10.31234/osf.io/wqvue
-
-See also:
-
-Fink, L. K., Hurley, B. K., Geng, J. J., & Janata, P. (2018). A linear oscillator model predicts dynamic temporal attention and pupillary entrainment to rhythmic patterns. Journal of Eye Movement Research, 11(2). https://doi.org/10.16910/jemr.11.2.12
