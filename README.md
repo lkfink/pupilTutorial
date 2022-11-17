@@ -51,7 +51,7 @@ Java Version: Java 1.8.0_202-b08 with Oracle Corporation Java HotSpot(TM) 64-Bit
 ## Running this code
 Download this Github repository. Open `Fink_pupilCodeTutorial_interactive.mlx`.
 
-As long as all files have stayed in the same folder, MATLAB should find the required data and functions and all should run without problem.
+As long as all the file structure and names in this repository have not been altered, MATLAB should find the required data and functions and all should run without problem.
 
 Should trouble occur, or bugs be found, please [open an issue](https://github.com/lkfink/pupilTutorial/issues).
 
