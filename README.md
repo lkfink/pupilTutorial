@@ -1,7 +1,10 @@
-# Tutorial to accompany Fink et al. (2022)
+# Tutorial to accompany Fink et al. (2023)
 This repository contains code and toy data associated with the paper:
 
-Fink, L., Simola, J., Tavano, A., Lange, E. B., Wallot, S., & Laeng, B. (2021). From pre-processing to advanced dynamic modeling of pupil data. https://doi.org/10.31234/osf.io/wqvue
+Fink, L., Simola, J., Tavano, A., Lange, E. B., Wallot, S., & Laeng, B. (2023, in review). From pre-processing to advanced dynamic modeling of pupil data. https://doi.org/10.31234/osf.io/wqvue
+
+Please note that for users who do not have MATLAB, all code can be viewed in the .html file of this repository.  
+Alternatively, users can run all MATLAB code on a virtual machine in a public Code Ocean capsule, available here: 
 
 
 ## Contents
@@ -9,7 +12,7 @@ Fink, L., Simola, J., Tavano, A., Lange, E. B., Wallot, S., & Laeng, B. (2021). 
 ### Main interactive tutorial script
 `Fink_pupilCodeTutorial_interactive.mlx` is the main tutorial script. It contains text, MATLAB code, and interactive user interfaces for understanding some fundamentals of time series and signal-to-signal analyses.
 
-`Fink_pupilCodeTutorial_interactive.html` is an html print out of the code and figures in the above .mlx script, for those who want to browse online, or who do not have MATLAB. We are in the process of converting all code in this repository to python and will be providing a full python version in the future. Note that the interactive controls are not available in the html version.
+`Fink_pupilCodeTutorial_interactive.html` is an html print out of the code and figures in the above .mlx script, for those who want to browse online, or who do not have MATLAB. Note that the interactive controls are not available in the html version.
 
 `Fink_toydata.mat` contains the toy data set for the tutorial.
 
@@ -58,4 +61,4 @@ Should trouble occur, or bugs be found, please [open an issue](https://github.co
 ## Citation
 If using anything from this repository, cite:
 
-Fink, L., Simola, J., Tavano, A., Lange, E. B., Wallot, S., & Laeng, B. (2021, December 2). From pre-processing to advanced dynamic modeling of pupil data. https://doi.org/10.31234/osf.io/wqvue
+Fink, L., Simola, J., Tavano, A., Lange, E. B., Wallot, S., & Laeng, B. (2023, in press). From pre-processing to advanced dynamic modeling of pupil data. https://doi.org/10.31234/osf.io/wqvue
