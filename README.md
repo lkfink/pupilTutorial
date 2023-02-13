@@ -4,7 +4,7 @@ This repository contains code and toy data associated with the paper:
 Fink, L., Simola, J., Tavano, A., Lange, E. B., Wallot, S., & Laeng, B. (2023, in review). From pre-processing to advanced dynamic modeling of pupil data. https://doi.org/10.31234/osf.io/wqvue
 
 Please note that for users who do not have MATLAB, all code can be viewed in the .html file of this repository.  
-Alternatively, users can run all MATLAB code on a virtual machine in a public Code Ocean capsule, available here: 
+Alternatively, users can run all MATLAB code on a virtual machine in a public Code Ocean capsule, available here: https://codeocean.com/capsule/1209338/tree/v1
 
 
 ## Contents
