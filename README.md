@@ -1,7 +1,7 @@
 # Tutorial to accompany Fink et al. (2023)
 This repository contains code and toy data associated with the paper:
 
-Fink, L., Simola, J., Tavano, A., Lange, E. B., Wallot, S., & Laeng, B. (2023, in review). From pre-processing to advanced dynamic modeling of pupil data. https://doi.org/10.31234/osf.io/wqvue
+Fink, L., Simola, J., Tavano, A., Lange, E. B., Wallot, S., & Laeng, B. (2023). From pre-processing to advanced dynamic modeling of pupil data. *Behavior Research Methods*. [https://doi.org/10.3758/s13428-023-02098](https://doi.org/10.3758/s13428-023-02098)
 
 Please note that for users who do not have MATLAB, all code can be viewed in the .html file of this repository.  
 Alternatively, users can run all MATLAB code on a virtual machine in a public Code Ocean capsule, available here: https://codeocean.com/capsule/1209338/tree/v1
@@ -61,4 +61,4 @@ Should trouble occur, or bugs be found, please [open an issue](https://github.co
 ## Citation
 If using anything from this repository, cite:
 
-Fink, L., Simola, J., Tavano, A., Lange, E. B., Wallot, S., & Laeng, B. (2023, in press). From pre-processing to advanced dynamic modeling of pupil data. https://doi.org/10.31234/osf.io/wqvue
+Fink, L., Simola, J., Tavano, A., Lange, E. B., Wallot, S., & Laeng, B. (2023). From pre-processing to advanced dynamic modeling of pupil data. *Behavior Research Methods*. [https://doi.org/10.3758/s13428-023-02098](https://doi.org/10.3758/s13428-023-02098)
